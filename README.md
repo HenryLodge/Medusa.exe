@@ -7,4 +7,4 @@ git clone https://github.com/HenryLodge/Medusa.exe.git
 
 cd Medusa.exe
 
-python3 main.py
+python .gitignore
