@@ -8,3 +8,5 @@ You can downloads this by doing this in your terminal
   'cd Medusa.exe'
 
   'python3 .gitignore'
+  
+YOU MUST HAVE PILLOW INSTALLED FOR THIS TO WORK
